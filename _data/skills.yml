@@ -1,16 +1,19 @@
-header: Say something about what you're good at
+#uncomment when I have more to say
+#header: Say something about what you're good at
 
-subheader: Give some more context
+#uncomment when I have more to say
+#subheader: Give some more context
 
+# this should be skills later 'like: name: Skill 1 description: A quick sentence or two describing your skill' - see https://ianballard.github.io/#about
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Coding
+    description: Java, C, C++, Python, HTML, SQL, PostgreSQL, Cypher, CSS
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Soft Skills
+    description: Leadership, organization, user design
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Languages
+    description: English, Swedish
 
 #If you have certifications, talk about them here
 certifications:
